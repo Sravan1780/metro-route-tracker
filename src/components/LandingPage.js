@@ -65,7 +65,7 @@ g.addLink("Madhapur", "Durgam Cheruvu", 1.7);
 g.addLink("Durgam Cheruvu", "HITEC City", 0.8);
 g.addLink("HITEC City", "Raidurg", 1.5);
 g.setMainNode("MG Bus Station");
-g.setMainNode("JBS Parade Ground");
+g.setMainNode("Parade Ground");
 g.setMainNode("Ameerpet");
 g.setMainNode("L.B. Nagar");
 g.setMainNode("Nagole");
